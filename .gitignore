@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.o
+*.out
+*.class
+.DS_Store
+data/
+output/
+model/
+venv/
+*.dat
+*.cast
+lasthope-rpg/main
