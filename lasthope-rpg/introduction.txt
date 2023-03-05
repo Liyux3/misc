@@ -1,0 +1,73 @@
+Background story:
+In the year 2048, the Earth was ravaged by the outbreak of a zombie fungus, the Cordyceps Epidemic.
+The infection spread rapidly, 
+decimating human civilization and leaving only a handful of survivors scattered across the globe.
+These survivors formed small settlements in remote areas, 
+where they had access to food, water, and relative safety from the infected hordes.
+
+Amidst the chaos, 
+a small research group at the University of Hong Kong (HKU) persisted in their quest to find a cure for the Cordyceps Epidemic.
+Comprised of faculty members, researchers, and students, 
+this group was determined to bring hope back to humanity.
+
+After years of tireless research, 
+the HKU team finally made a major breakthrough in developing a potential cure for the fungal infection. 
+However, their success did not go unnoticed.
+
+Word spread about the research group's discovery, 
+drawing the attention of a powerful gang who saw the broken world as their own twisted utopia.
+They raided the HKU cure lab, 
+destroying all the prototypes, equipment, 
+and research data in a desperate attempt to maintain their control over the new world order.
+
+Devastated by the loss of their work, the HKU research group's spirits were crushed.
+However, a few former students from COMP2113/ENGG1340 believed that a backup copy of the cure's blueprint could still be hidden 
+within the Run Run Shaw Tower on the HKU main campus.
+Driven by hope and the memory of their fallen comrades, 
+they decided to risk everything and venture into the zombie-infested campus to retrieve the blueprint.
+
+After a harrowing journey through the city, only one member of the group remained -- You.
+Standing before the Run Run Shaw Tower, You vowed to complete the mission, find the cure, 
+and honour the sacrifices made by your friends.
+
+Here the game begins...
+
+Currency Description:
+
+LabTokens
+
+After the outbreak of the Cordyceps Epidemic, the HKU cure lab adopted an internal currency system,
+known as LabTokens, to facilitate the exchange of goods and services among the remaining staff.
+LabTokens were used to purchase essential items such as pharmaceuticals, armour, and weapons from automated vending machines,
+ensuring that the lab members were well-equipped to face the challenges of the post-apocalyptic world.
+
+As you explore the infested HKU campus, 
+you will come across functioning vending machines that offer various items to assist them on their mission.
+These machines accept LabTokens as payment, which the player can collect throughout the game by:
+
+  # Defeating infected enemies and looting their remains
+  # Solving puzzles and unlocking hidden caches of LabTokens
+  # Recycling found items at designated recycling stations in exchange for LabTokens
+  # With LabTokens, the main character can purchase:
+  
+  Pharmaceuticals: Health-restoring items such as medkits, antidotes, and stamina boosters.
+Armor: Protective gear that increases the main character's resilience and provides resistance against different types of damage.
+Weapons: A variety of melee and ranged weapons, each with their unique stats and abilities, allowing the player to adapt their playstyle.
+
+You must carefully manage their LabTokens to ensure they have the right tools and resources 
+to face the ever-growing threats in the infested HKU campus.
+Balancing the need for better equipment and consumables will be a crucial aspect of the game, 
+pushing the player to make strategic decisions throughout their journey.
+
+Game Rules:
+
+Use the following keys to navigate the game environment: W - Move Up A - Move Left S - Move Down D - Move Right
+
+How to Win:
+
+As the last hope of the research group, your mission is to navigate through the three floors of the Run Run Shaw Tower,
+overcoming the hordes of infected enemies that stand in your way.
+On each floor, you must defeat the zombies and solve any puzzles that arise to advance to the next level.
+Successfully reach the top floor to locate and retrieve the blueprint, 
+ensuring the salvation of humanity and honoring the sacrifices of your fallen comrades.
+
