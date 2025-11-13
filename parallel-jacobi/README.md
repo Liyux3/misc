@@ -4,3 +4,4 @@ Parallel Jacobi iterative solver for steady-state heat equation. Sequential and 
 
 ![demo](demo.gif)
 
+
