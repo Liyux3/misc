@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS GameStats (
+  username VARCHAR(64) PRIMARY KEY,
+  wins INT NOT NULL DEFAULT 0,
+  played INT NOT NULL DEFAULT 0,
+  total_win_time_ms BIGINT NOT NULL DEFAULT 0,
+  FOREIGN KEY (username) REFERENCES UserInfo(username) ON DELETE CASCADE
+);
